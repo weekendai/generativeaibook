@@ -1,0 +1,1 @@
+**Chapter 17 - Future Trends in Generative AI**
