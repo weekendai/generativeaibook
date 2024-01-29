@@ -1,6 +1,6 @@
+**Additional reading and further exploration**
+
 **Chapter 6 - The Art of Prompt Engineering**
-
-
 
 * [LangChain + Streamlit + Llama: Bringing Conversational AI to Your Local Machine | Artificial Intelligence](https://ai.plainenglish.io/%EF%B8%8F-langchain-streamlit-llama-bringing-conversational-ai-to-your-local-machine-a1736252b172) -  a blog by Afaque Umer
 * [3 Principles for prompt engineering with GPT-3](https://www.linkedin.com/pulse/3-principles-prompt-engineering-gpt-3-ben-whately/) - a blog by Ben Whately

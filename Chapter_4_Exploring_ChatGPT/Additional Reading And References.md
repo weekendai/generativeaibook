@@ -1,3 +1,5 @@
+**Additional reading and further exploration**
+
 **Chapter 4 - Exploring ChatGPT**
 
 * [5 Interesting ChatGPT Applications and Examples](https://www.projectpro.io/article/chatgpt-application-examples/713)- A blog by ProjectPro

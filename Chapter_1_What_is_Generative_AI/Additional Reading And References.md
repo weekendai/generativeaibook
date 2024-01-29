@@ -1,3 +1,5 @@
+**Additional reading and further exploration**
+
 **Chapter 1 - What is Generative AI**
 
 * [What is ChatGPT, DALL-E, and generative AI? | McKinsey](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-generative-ai)

@@ -1,3 +1,5 @@
+**Additional reading and further exploration**
+
 **Chapter 3 - How Large Language Models Work**
 
 * [What is ChatGPT, DALL-E, and generative AI? | McKinsey](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-generative-ai)

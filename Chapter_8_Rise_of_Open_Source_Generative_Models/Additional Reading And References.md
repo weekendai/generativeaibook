@@ -1,3 +1,5 @@
+**Additional reading and further exploration**
+
 **Chapter 8 - Exploring Open Source**
 
 

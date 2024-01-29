@@ -1,3 +1,5 @@
+**Additional reading and further exploration**
+
 **Chapter 10 - Retrieval Augmented Generation**
 
 

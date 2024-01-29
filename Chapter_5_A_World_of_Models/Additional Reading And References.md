@@ -1,6 +1,6 @@
+**Additional reading and further exploration**
+
 **Chapter 5 - A World of Models**
-
-
 
 * [Text-to-Image: Diffusion, Text Conditioning, Guidance, Latent Space](https://eugeneyan.com/writing/text-to-image/). - a blog by Yan, Ziyou
 * [An Introduction to Diffusion Models for Machine Learning](https://encord.com/blog/diffusion-models/#:~:text=Diffusion%20models%20are%20a%20class%20of%20generative%20models%20that%20simulate,a%20sequence%20of%20invertible%20operations) - a blog by Akruti Acharya

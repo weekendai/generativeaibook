@@ -1,3 +1,5 @@
+**Additional reading and further exploration**
+
 **Chapter 2 - Fundamentals of Machine Learning for Language Models**
 
 * [Generative AI is all the Rage](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/deloitte-analytics/us-ai-institute-gen-ai-for-enterprises.pdf) - Deloitte paper. 

@@ -1,3 +1,5 @@
+**Additional reading and further exploration**
+
 **Chapter 7 - Designing Effective Prompts**
 
 
